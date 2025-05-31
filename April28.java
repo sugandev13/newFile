@@ -75,14 +75,6 @@ public class April28 {
 		 * WebElement subMenu2 = t.findElement(By.xpath("//a[@href='#/creditnote']"));
 		 * a.moveToElement(subMenu2).perform(); subMenu2.click();
 		 */
-		
-		
-	
-		
-		
-		
-		
-		
 
 	}
 
